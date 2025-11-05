@@ -13,7 +13,7 @@ export default function SignUpPage() {
           </div>
           <CardTitle className="font-headline text-3xl">Create an Account</CardTitle>
           <CardDescription>
-            नया अकाउंट बनाये।
+            Create a new account.
           </CardDescription>
         </CardHeader>
         <CardContent>

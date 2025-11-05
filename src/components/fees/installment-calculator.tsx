@@ -65,7 +65,7 @@ export function InstallmentCalculator() {
         <div>
           <h3 className="text-md font-semibold mb-2">Download Fee Challan</h3>
            <p className="text-sm text-muted-foreground mb-3">Download a copy of your fee challan for your records.</p>
-          <Button onClick={handleDownloadChallan}>Apka Chalaan download karen</Button>
+          <Button onClick={handleDownloadChallan}>Download Your Challan</Button>
         </div>
       </CardContent>
     </Card>

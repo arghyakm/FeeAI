@@ -13,7 +13,7 @@ export default function LoginPage() {
           </div>
           <CardTitle className="font-headline text-3xl">Welcome to FeeAI</CardTitle>
           <CardDescription className="text-lg">
-            नमस्ते! अपना अकाउंट लॉगिन करें।
+            Login to your account.
           </CardDescription>
         </CardHeader>
         <CardContent>

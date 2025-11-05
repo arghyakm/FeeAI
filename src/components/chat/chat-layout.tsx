@@ -20,7 +20,7 @@ const quickReplies = [
   "Check Balance",
   "What is my due date?",
   "Show payment history",
-  "Mujhe mera balance dikhao",
+  "How much is pending?",
 ];
 
 export function ChatLayout() {
